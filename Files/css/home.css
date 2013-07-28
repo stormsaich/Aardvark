@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #CCC;
+}
+
+#info{
+	width: 550px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 60px;
+	text-align: center;
+	color: #399;
+}
+p{
+text-align: center;
+}
+h1{
+	font-family:"Lucida Console", Times, Monospace;
+	font-size:650%;
+	text-align: center;
+}
