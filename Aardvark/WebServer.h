@@ -1,9 +1,13 @@
 #ifndef WebServer_h
 #define WebServer_h
 
+#include <Ethernet.h>
+
 #include <SdFat.h>
 #include <SdFatUtil.h>
-#include <Ethernet.h>
+#include <aJSON.h>
+
+
 
 
 class WebServer
