@@ -1,7 +1,6 @@
-Aardvark v1.0 Copy
+Aardvark v1.0 Copyright Notice
 ========
-
-  Arduino http server and admin console
+  Copyright (c) 2010, TechStorm Studios, Storm Saich
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
@@ -27,6 +26,7 @@ Perquisite Library’s
 ========
 
 -Sdfat
+
 -aJson
 
 
