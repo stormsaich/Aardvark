@@ -25,9 +25,8 @@ Aardvark v1.0 Copyright Notice
 Perquisite Library’s 
 ========
 
--Sdfat
-
--aJson
+- Sdfat
+- aJson
 
 
 Aardvark 
@@ -40,6 +39,6 @@ Aarsdvark is comprised of two libraries supported by several other libraries sta
 Aardvark includes :
 
 - Aardvark HTTP Server.
--- A standard server that serves static files from an sd card, and proceses request into json for your arduino code to interact with.
+- - A standard server that serves static files from an sd card, and proceses request into json for your arduino code to interact with.
 - Aardvark Management 
--- A management interface built in two components, a library witch adds support for managing many aspects of an arduino, including a file management on the sd card, and a web app that is loaded from the HTTP server that interacts with the Aardvark management library      
+- - A management interface built in two components, a library witch adds support for managing many aspects of an arduino, including a file management on the sd card, and a web app that is loaded from the HTTP server that interacts with the Aardvark management library      
